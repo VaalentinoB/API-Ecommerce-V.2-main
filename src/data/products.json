@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Pan de Molde",
+    "description": "Pan de molde integral 500g",
+    "code": "SUP002",
+    "status": true,
+    "stock": 50,
+    "category": "panadería",
+    "image": "/img/items/pan_de_molde.png",
+    "price": 1500
+  },
+  {
+    "title": "Leche Descremada",
+    "description": "Leche descremada 1L",
+    "code": "SUP003",
+    "status": true,
+    "stock": 100,
+    "category": "lácteos",
+    "image": "/img/items/leche_descremada.png",
+    "price": 1000
+  },
+  {
+    "title": "Huevos Orgánicos",
+    "description": "Docena de huevos orgánicos",
+    "code": "SUP004",
+    "status": true,
+    "stock": 30,
+    "category": "huevos y lácteos",
+    "image": "/img/items/huevos_organicos.png",
+    "price": 2000
+  },
+  {
+    "title": "Queso Mozzarella",
+    "description": "Queso mozzarella 250g",
+    "code": "SUP005",
+    "status": true,
+    "stock": 40,
+    "category": "lácteos",
+    "image": "/img/items/queso_mozzarella.png",
+    "price": 2500
+  },
+  {
+    "title": "Yogurt Natural",
+    "description": "Yogurt natural sin azúcar 500g",
+    "code": "SUP006",
+    "status": true,
+    "stock": 25,
+    "category": "lácteos",
+    "image": "/img/items/yogurt_natural.png",
+    "price": 1800
+  },
+  {
+    "title": "Mantequilla",
+    "description": "Mantequilla sin sal 200g",
+    "code": "SUP007",
+    "status": true,
+    "stock": 60,
+    "category": "lácteos",
+    "image": "/img/items/mantequilla.png",
+    "price": 2200
+  },
+  {
+    "title": "Café Molido",
+    "description": "Café molido 250g",
+    "code": "SUP008",
+    "status": true,
+    "stock": 45,
+    "category": "bebidas",
+    "image": "/img/items/cafe_molido.png",
+    "price": 3000
+  },
+  {
+    "title": "Jugo de Naranja",
+    "description": "Jugo de naranja 1L",
+    "code": "SUP009",
+    "status": true,
+    "stock": 70,
+    "category": "bebidas",
+    "image": "/img/items/jugo_naranja.png",
+    "price": 1200
+  },
+  {
+    "title": "Arroz Integral",
+    "description": "Arroz integral 1kg",
+    "code": "SUP010",
+    "status": true,
+    "stock": 90,
+    "category": "granos",
+    "image": "/img/items/arroz_integral.png",
+    "price": 1100
+  },
+  {
+    "title": "Aceite de Oliva",
+    "description": "Aceite de oliva extra virgen 500ml",
+    "code": "SUP011",
+    "status": true,
+    "stock": 50,
+    "category": "aceites",
+    "image": "/img/items/aceite_oliva.png",
+    "price": 3500
+  },
+  {
+    "title": "Pasta Integral",
+    "description": "Pasta integral 500g",
+    "code": "SUP012",
+    "status": true,
+    "stock": 80,
+    "category": "granos",
+    "image": "/img/items/pasta_integral.png",
+    "price": 1400
+  },
+  {
+    "title": "Salsa de Tomate",
+    "description": "Salsa de tomate 400g",
+    "code": "SUP013",
+    "status": true,
+    "stock": 65,
+    "category": "salsas",
+    "image": "/img/items/salsa_tomate.png",
+    "price": 900
+  }
+]
